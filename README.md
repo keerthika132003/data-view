@@ -7,7 +7,7 @@ This project analyzes a dataset and presents various visualizations, including f
 ## Dataset
 
 The dataset used for this project is related to Netflix
-data-set:https://www.kaggle.com/datasets/shivamb/netflix-shows.
+data-set:https://www.kaggle.com/datasets/shivamb/netflix-shows.[copywrite]
 
 ## Visualizations
 
