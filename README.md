@@ -1,5 +1,3 @@
-# data-view
-
 # Data Visualization 
 
 ## Overview
